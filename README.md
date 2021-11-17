@@ -1,4 +1,4 @@
-## Olá Mundo!
+## Olá Mundo! 👋
 
 Diego Garcia, presente neste mundo deis de 2003 (18 anos), do noroeste do Paraná.
 
@@ -14,7 +14,7 @@ Em falar de dinheiro, infelizmente nunca trabalhei com áreas de meu interesse (
 
 Não queria terminar esse cv-like tão triste assim, então fica aí meios de me encontrar e alguns números referente ao meu perfil do GitHub.
 
-### Contatos
+### Contatos 📝
 
 - Email: gdiego416@gmail.com
 - Instagram: [@d1360x64rc14](https://www.instagram.com/d1360x64rc14/)
@@ -22,7 +22,7 @@ Não queria terminar esse cv-like tão triste assim, então fica aí meios de me
 - LinkedIn: [/in/diego--garcia/](https://www.linkedin.com/in/diego--garcia/)
 - Facebook: [D136064RC14](https://www.facebook.com/D136064RC14/)
 
-### Stats
+### Stats 📊
 
 <div align="center">
   <span>

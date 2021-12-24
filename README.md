@@ -1,6 +1,6 @@
 ## Olá Mundo! 👋
 
-Diego Garcia, presente neste mundo deis de 2003 (18 anos), do noroeste do Paraná.
+Diego Garcia, vivo deis de 2003 (18 anos), do noroeste do Paraná.
 
 Sempre curioso sobre como as coisas funcionam, em 2017 – 2 anos após ganhar seu primeiro computador – caiu de paraquedas no mundo da programação, e amou o poder de criação e aprendizado que esse propicia.
 

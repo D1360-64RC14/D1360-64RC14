@@ -1,4 +1,4 @@
-## Olá Mundo! 👋
+## Olá Mundo! 👋 <img align="right" src="https://www.codewars.com/users/D1360_64RC14/badges/small">
 
 Diego Garcia, 19 anos, do Noroeste do Paraná. Curioso sobre como as coisas funcionam.
 
@@ -24,10 +24,12 @@ Atualmente completando o 4º ano do Ensino Médio, no [Curso de Formação de Do
 ### Stats 📊
 
 <div align="center">
-  <span>
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=d1360-64rc14&show_icons=true&theme=tokyonight&locale=pt-BR&langs_count=10&layout=compact&hide=Shell,Makefile,Dockerfile">
-  </span>
-  <span>
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=d1360-64rc14&show_icons=true&theme=tokyonight&locale=pt-BR&langs_count=10&layout=compact&hide=Shell,Makefile,Dockerfile">
-  </span>
+  <div>
+    <span>
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=d1360-64rc14&show_icons=true&theme=tokyonight&locale=pt-BR&langs_count=10&layout=compact&hide=Shell,Makefile,Dockerfile">
+    </span>
+    <span>
+      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=d1360-64rc14&show_icons=true&theme=tokyonight&locale=pt-BR&langs_count=10&layout=compact&hide=Shell,Makefile,Dockerfile">
+    </span>
+  </div>
 </div>

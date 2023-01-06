@@ -1,4 +1,4 @@
-## Olá Mundo! 👋 🇧🇷 <img align="right" src="https://www.codewars.com/users/D1360_64RC14/badges/small">
+## Olá Mundo! 👋 🇧🇷 [<img src="https://www.codewars.com/users/D1360_64RC14/badges/small?theme=light" align="right" >](https://www.codewars.com/users/D1360_64RC14#gh-light-mode-only)[<img src="https://www.codewars.com/users/D1360_64RC14/badges/small" align="right" >](https://www.codewars.com/users/D1360_64RC14#gh-dark-mode-only)
 
 Diego Garcia, 19 anos, do Noroeste do Paraná. Sempre curioso sobre como as coisas funcionam.
 

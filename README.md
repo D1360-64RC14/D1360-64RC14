@@ -41,7 +41,7 @@ Atualmente cursando Análise e Desenvolvimento de Sistemas na [Faculdade FACEC](
     <span>
       <picture>
         <source 
-          srcset="https://github-readme-stats.vercel.app/api/top-langs?username=d1360-64rc14&show_icons=true&theme=github_dark&locale=pt-BR&langs_count=10&layout=compact&hide=Makefile,Dockerfile,TeX,CMake#gh-dark-mode-only"
+          srcset="https://github-readme-stats.vercel.app/api/top-langs?username=d1360-64rc14&show_icons=true&theme=github_dark&locale=pt-BR&langs_count=10&layout=compact&hide=TeX,Makefile,Dockerfile,CMake#gh-dark-mode-only"
           media="(prefers-color-scheme: dark)"
         />
         <source

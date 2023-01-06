@@ -2,7 +2,7 @@
 
 Diego Garcia, 19 anos, do Noroeste do Paraná. Curioso sobre como as coisas funcionam.
 
-Atualmente completando o 4º ano do Ensino Médio, no [Curso de Formação de Docentes](http://www.comunidade.diaadia.pr.gov.br/modules/conteudo/conteudo.php?conteudo=102).
+Atualmente cursando Análise e Desenvolvimento de Sistemas na [Faculdade FACEC](https://faculdadefacec.edu.br/home/).
 
 ### Gostos 👍
 

@@ -1,6 +1,6 @@
-## Olá Mundo! 👋 <img align="right" src="https://www.codewars.com/users/D1360_64RC14/badges/small">
+## Olá Mundo! 👋 🇧🇷 <img align="right" src="https://www.codewars.com/users/D1360_64RC14/badges/small">
 
-Diego Garcia, 19 anos, do Noroeste do Paraná. Curioso sobre como as coisas funcionam.
+Diego Garcia, 19 anos, do Noroeste do Paraná. Sempre curioso sobre como as coisas funcionam.
 
 Atualmente cursando Análise e Desenvolvimento de Sistemas na [Faculdade FACEC](https://faculdadefacec.edu.br/home/).
 
@@ -26,10 +26,30 @@ Atualmente cursando Análise e Desenvolvimento de Sistemas na [Faculdade FACEC](
 <div align="center">
   <div>
     <span>
-      <img height="180" src="https://github-readme-stats.vercel.app/api?username=d1360-64rc14&show_icons=true&theme=tokyonight&locale=pt-BR&langs_count=10&layout=compact&hide=Shell,Makefile,Dockerfile">
+      <picture>
+        <source 
+          srcset="https://github-readme-stats.vercel.app/api?username=d1360-64rc14&show_icons=true&theme=github_dark&locale=pt-BR#gh-dark-mode-only"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source
+          srcset="https://github-readme-stats.vercel.app/api?username=d1360-64rc14&show_icons=true&locale=pt-BR#gh-light-mode-only"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img height="180" />
+      </picture>
     </span>
     <span>
-      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=d1360-64rc14&show_icons=true&theme=tokyonight&locale=pt-BR&langs_count=10&layout=compact&hide=Shell,Makefile,Dockerfile">
+      <picture>
+        <source 
+          srcset="https://github-readme-stats.vercel.app/api/top-langs?username=d1360-64rc14&show_icons=true&theme=github_dark&locale=pt-BR&langs_count=10&layout=compact&hide=Makefile,Dockerfile,TeX,CMake#gh-dark-mode-only"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source
+          srcset="https://github-readme-stats.vercel.app/api/top-langs?username=d1360-64rc14&show_icons=true&locale=pt-BR&langs_count=10&layout=compact&hide=Makefile,Dockerfile,TeX,CMake#gh-light-mode-only"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img height="180" />
+      </picture>
     </span>
   </div>
 </div>

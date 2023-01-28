@@ -1,4 +1,4 @@
-## Olá Mundo! 👋 🇧🇷 [<img src="https://www.codewars.com/users/D1360_64RC14/badges/small?theme=light" align="right" >](https://www.codewars.com/users/D1360_64RC14#gh-light-mode-only)[<img src="https://www.codewars.com/users/D1360_64RC14/badges/small" align="right" >](https://www.codewars.com/users/D1360_64RC14#gh-dark-mode-only)
+## Olá Mundo! 👋 🇧🇷  [<picture><source srcset="https://www.codewars.com/users/D1360_64RC14/badges/small?theme=light" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"><source srcset="https://www.codewars.com/users/D1360_64RC14/badges/small" media="(prefers-color-scheme: dark)"><img align="right"></picture>](https://www.codewars.com/users/D1360_64RC14)
 
 Diego Garcia, 19 anos, do Noroeste do Paraná. Sempre curioso sobre como as coisas funcionam.
 
@@ -28,11 +28,11 @@ Atualmente cursando Análise e Desenvolvimento de Sistemas na [Faculdade FACEC](
     <span>
       <picture>
         <source 
-          srcset="https://github-readme-stats.vercel.app/api?username=d1360-64rc14&show_icons=true&theme=github_dark&locale=pt-BR#gh-dark-mode-only"
+          srcset="https://github-readme-stats.vercel.app/api?username=d1360-64rc14&show_icons=true&theme=github_dark&locale=pt-BR"
           media="(prefers-color-scheme: dark)"
         />
         <source
-          srcset="https://github-readme-stats.vercel.app/api?username=d1360-64rc14&show_icons=true&locale=pt-BR#gh-light-mode-only"
+          srcset="https://github-readme-stats.vercel.app/api?username=d1360-64rc14&show_icons=true&locale=pt-BR"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
         <img height="180" />
@@ -41,11 +41,11 @@ Atualmente cursando Análise e Desenvolvimento de Sistemas na [Faculdade FACEC](
     <span>
       <picture>
         <source 
-          srcset="https://github-readme-stats.vercel.app/api/top-langs?username=d1360-64rc14&show_icons=true&theme=github_dark&locale=pt-BR&langs_count=10&layout=compact&exclude_repo=2021-School&hide=Makefile,Dockerfile,CMake#gh-dark-mode-only"
+          srcset="https://github-readme-stats.vercel.app/api/top-langs?username=d1360-64rc14&show_icons=true&theme=github_dark&locale=pt-BR&langs_count=10&layout=compact&exclude_repo=2021-School&hide=Makefile,Dockerfile,CMake"
           media="(prefers-color-scheme: dark)"
         />
         <source
-          srcset="https://github-readme-stats.vercel.app/api/top-langs?username=d1360-64rc14&show_icons=true&locale=pt-BR&langs_count=10&layout=compact&exclude_repo=2021-School&hide=Makefile,Dockerfile,CMake#gh-light-mode-only"
+          srcset="https://github-readme-stats.vercel.app/api/top-langs?username=d1360-64rc14&show_icons=true&locale=pt-BR&langs_count=10&layout=compact&exclude_repo=2021-School&hide=Makefile,Dockerfile,CMake"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
         <img height="180" />

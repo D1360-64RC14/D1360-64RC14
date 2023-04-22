@@ -2,7 +2,7 @@
 
 Diego Garcia, 19 anos, do Noroeste do Paraná. Sempre curioso sobre como as coisas funcionam.
 
-Atualmente cursando Análise e Desenvolvimento de Sistemas na [Faculdade FACEC](https://faculdadefacec.edu.br/home/).
+Atualmente cursando Análise e Desenvolvimento de Sistemas na [Faculdade UMFG](https://umfg.edu.br/home/).
 
 ### Gostos 👍
 

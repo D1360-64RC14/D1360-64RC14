@@ -1,8 +1,8 @@
 ## Olá Mundo! 👋 🇧🇷  [<picture><source srcset="https://www.codewars.com/users/D1360_64RC14/badges/small?theme=light" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"><source srcset="https://www.codewars.com/users/D1360_64RC14/badges/small" media="(prefers-color-scheme: dark)"><img align="right"></picture>](https://www.codewars.com/users/D1360_64RC14)
 
-Diego Garcia, 19 anos, do Noroeste do Paraná. Sempre curioso sobre como as coisas funcionam.
+Diego Garcia, 20 anos, do Noroeste do Paraná. Sempre curioso sobre como as coisas funcionam.
 
-Atualmente cursando Análise e Desenvolvimento de Sistemas na [Faculdade UMFG](https://umfg.edu.br/home/).
+Atualmente cursando segundo período de Análise e Desenvolvimento de Sistemas na [Faculdade UMFG](https://umfg.edu.br/home/).
 
 ### Gostos 👍
 

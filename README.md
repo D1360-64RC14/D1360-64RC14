@@ -2,7 +2,7 @@
 
 Diego Garcia, 21 anos, do Noroeste do Paraná. Sempre curioso sobre como as coisas funcionam.
 
-Atualmente cursando quarto período de Análise e Desenvolvimento de Sistemas na [Faculdade UMFG](https://umfg.edu.br/home/).
+Atualmente cursando quinto período de Análise e Desenvolvimento de Sistemas na [Faculdade UMFG](https://umfg.edu.br/home/).
 
 ### Gostos 👍
 
